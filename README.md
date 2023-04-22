@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Paula
+### Hi 👋 I'm Paula
 
 # 💫 About Me:
 🔭 I’m currently working on becoming  a Full Stack Developer with SuperCode<br>🌱 I’m currently learning HTML, CSS and JavaScript<br>⚡ Fun fact: My friends call me Paulaner because I'm addicted to Spezi.<br>
