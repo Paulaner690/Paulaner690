@@ -1,4 +1,4 @@
-### Hi 👋 I'm Paula
+### Hi 👋 It's me Paula!
 
 # 💫 About Me:
 🔭 I’m currently working on becoming  a Full Stack Developer with SuperCode<br>🌱 I’m currently learning Node.js
