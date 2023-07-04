@@ -1,15 +1,16 @@
-# Hi 👋 It's me Paula!
+# <h1 align="center"> Hi 👋 It's me, Paula! </h1>
 
 # 💫 About Me:
-🔭 I’m currently working on becoming  a Full Stack Developer with SuperCode<br>🌱 I’m currently learning Node.js
+🔭 I’m currently working on my Full-Stack Bootcamp with SuperCode<br>🌱 I’m currently learning Node.js<br>
 
 
-# 🌐 Socials:
+# 🌐 Contact me:
 <div align="left">
   <a href="www.linkedin.com/in/paula-krug-dev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
+<br>
 
 
 # 💻 Tech Stack:
@@ -34,6 +35,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
+<br>
 
 # 📊 GitHub Stats:
 <div align="center">
