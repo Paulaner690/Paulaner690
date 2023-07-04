@@ -1,10 +1,10 @@
-### Hi 👋 It's me Paula!
+# Hi 👋 It's me Paula!
 
 # 💫 About Me:
 🔭 I’m currently working on becoming  a Full Stack Developer with SuperCode<br>🌱 I’m currently learning Node.js
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 <div align="left">
   <a href="www.linkedin.com/in/paula-krug-dev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
