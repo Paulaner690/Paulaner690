@@ -1,8 +1,8 @@
 # <h1 align="center"> Hi 👋 It's me, Paula! </h1>
 
 # 💫 About Me:
-🔭 I’m currently working on graduating my Full-Stack Bootcamp with SuperCode<br>
-🌱 I’m currently learning Node.js<br>
+🔭 I’m currently working as a Frontend Developer<br>
+🌱 I’m currently learning Svelte<br>
 
 
 # 🌐 Contact me:
